@@ -2,8 +2,6 @@ import Head from 'next/head'
 import Menu from "../components/Menu"
 import Footer from "../components/footer"
 import Project from "../components/project"
-import logo from "../public/logo.jpeg"
-import Image from "next/Image"
 
 const Projects = () => {
   return (
